@@ -1,5 +1,5 @@
                                           
-<h1 align="center">Hello! , Ritabrata here!!</h1>
+<h1 align="center">Hello! 👏, Ritabrata here!!</h1>
 
 ![](https://komarev.com/ghpvc/?username=Ritax2003&color=green&style=plastic)
 
