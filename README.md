@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 👋, I am Ritabrata Dey.
 
-![github-dp](https://user-images.githubusercontent.com/82272821/189715844-b1eef53d-8563-4c8b-9e9c-7d7d2405bc19.png)
+![github-dp (2)](https://user-images.githubusercontent.com/82272821/189716208-18c89433-a420-48a5-9847-2fac97f50da6.png)
