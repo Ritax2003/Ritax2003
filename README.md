@@ -22,7 +22,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritax2003&show_icons=true&locale=en&layout=compact" alt="Ritax2003" /></p>
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003&theme=merko" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003&theme=merko" /></p>
 
 <p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ritax2003&show_icons=true&theme=merko" /></p>
   
