@@ -23,7 +23,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>  
 <br>
 <br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=radical" alt="Ritax2003" /></a> </p>
 <a href="https://www.adamalston.com/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=Ritax2003&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Ritax2003"/>
 <br>
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003"/></a>
