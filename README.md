@@ -28,6 +28,9 @@
 <br>
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003"/></a>
 <br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ritax2003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<figure>
+  <img src ="https://activity-graph.herokuapp.com/graph?username=Ritax2003&theme=react-dark">
+ </figure>
+<!-- [![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
   
