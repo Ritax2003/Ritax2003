@@ -21,7 +21,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code> 
-<code><img height="40" width="60"src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Atom-900x0.png" alt="Atom"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/900px-Atom_1.0_icon.png?20160921001112" alt="Atom"></code>
+<br>
+<h3 align="left">Emulators :</h3>
+<code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
+<code><img height="40" src="https://cdn.wccftech.com/wp-content/uploads/2017/10/cemu-release-online-play-1030x579.jpg" alt="Cemu"></code> 
+<code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
+<code><img height="40" width="60"src="https://citra-emu.org/images/entry/welcome-to-the-new-citra/citralogoforarticle.jpg" alt="Citra"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/225px-Dolphin-logo.svg.png" alt="Dolphin"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=radical" alt="Ritax2003" /></a> </p>
