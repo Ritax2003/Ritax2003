@@ -14,8 +14,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ritabrata-dey-27388622b" target="blank"><img align="center" src="https://i.pinimg.com/564x/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.jpg" alt="https://www.linkedin.com/in/ritabrata-dey-27388622b" height="30" width="40" /> </a>
-<a href="https://leetcode.com/Ritax_RTX/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Ritax_RTX" height="30" width="30" /> </a>
+<a href="https://www.linkedin.com/in/ritabrata-dey-27388622b" target="_blank"><img align="center" src="https://i.pinimg.com/564x/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.jpg" alt="https://www.linkedin.com/in/ritabrata-dey-27388622b" height="30" width="40" /> </a>
+<a href="https://leetcode.com/Ritax_RTX/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Ritax_RTX" height="30" width="30" /> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C"></code>
