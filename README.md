@@ -18,8 +18,8 @@
 <a href="https://leetcode.com/Ritax_RTX/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Ritax_RTX" height="30" width="30" /> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/900px-Atom_1.0_icon.png?20160921001112" alt="Atom"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="HTML5"></code>
