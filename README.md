@@ -36,7 +36,8 @@
 <h4 align="left">Sony:</h4>
 <code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
-<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"</code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=radical" alt="Ritax2003" /></a> </p>
