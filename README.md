@@ -17,7 +17,8 @@
 <a href="https://www.linkedin.com/in/ritabrata-dey-27388622b" target="_blank"><img align="center" src="https://i.pinimg.com/564x/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.jpg" alt="https://www.linkedin.com/in/ritabrata-dey-27388622b" height="30" width="40" /> </a>
 <a href="https://leetcode.com/Ritax_RTX/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Ritax_RTX" height="30" width="30" /> </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Code Studio"></code> 
