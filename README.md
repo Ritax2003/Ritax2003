@@ -26,13 +26,16 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="CSS"></code>
 <br>
 <h3 align="left">Emulators :</h3>
+<h4 align="left">Nintendo:</h4>
 <code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
 <code><img height="40" src="https://cdn.wccftech.com/wp-content/uploads/2017/10/cemu-release-online-play-1030x579.jpg" alt="Cemu"></code> 
-<code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
-<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
 <code><img height="40" width="60"src="https://citra-emu.org/images/entry/welcome-to-the-new-citra/citralogoforarticle.jpg" alt="Citra"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/225px-Dolphin-logo.svg.png" alt="Dolphin"></code>
+<br>
+<h4 align="left">Sony:</h4>
+<code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
 <br>
 <br>
