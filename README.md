@@ -40,6 +40,7 @@
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
 <br>
 <br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=radical" alt="Ritax2003" /></a> </p>
 <a href="https://www.adamalston.com/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=Ritax2003&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Ritax2003"/>
 <br>
