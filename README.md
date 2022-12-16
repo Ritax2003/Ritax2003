@@ -25,7 +25,7 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="HTML5"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="CSS"></code>
 <br>
-<h3 align="left">Emulators :</h3>
+## Emulators :
 <h4 align="left">Nintendo:</h4>
 <code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
