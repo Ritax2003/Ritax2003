@@ -39,7 +39,7 @@
 <code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
 <code><img height="40" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
-<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"</code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
 <br>
 <br>
 <br>
