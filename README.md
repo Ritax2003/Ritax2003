@@ -50,7 +50,7 @@
 ## Profile Stats:
 <a href="https://www.adamalston.com/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=Ritax2003&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" alt="Ritax2003"/>
 <br>
-<img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003"/></a>
+<img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=Ritax2003&" alt="Ritax2003"/></a>
 <br>
 <figure>
   <img src ="https://activity-graph.herokuapp.com/graph?username=Ritax2003&theme=react-dark">
