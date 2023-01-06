@@ -60,4 +60,4 @@
  </figure>
 <!-- [![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
