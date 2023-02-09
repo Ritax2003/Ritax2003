@@ -1,5 +1,6 @@
                                           
-<h1 align="center">Hello! 👏, Ritabrata here!!</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hello%2C+Ritabrata+Here!" align="middle" alt="Hey, I'm Ritabrata, Welcome to my Profile! animated typed out">
+<img  src="assets/borderseperator.gif">
 
 ![](https://komarev.com/ghpvc/?username=Ritax2003&color=green&style=plastic)
 
