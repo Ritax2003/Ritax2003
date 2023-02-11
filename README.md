@@ -33,7 +33,7 @@
 <code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
 <code><img height="40" src="https://cdn.wccftech.com/wp-content/uploads/2017/10/cemu-release-online-play-1030x579.jpg" alt="Cemu"></code> 
-<code><img height="40" width="60"src="https://citra-emu.org/images/entry/welcome-to-the-new-citra/citralogoforarticle.jpg" alt="Citra"></code>
+<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Citra_Logo.svg/768px-Citra_Logo.svg.png?20171001090803" alt="Citra"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/225px-Dolphin-logo.svg.png" alt="Dolphin"></code>
 <br>
 <h4 align="left">Sony:</h4>
