@@ -48,9 +48,6 @@
 <br>
 <br>
   
-## Achievments :
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=tokyonight" alt="Ritax2003" /></a> </p>
-  
 ## Profile Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
