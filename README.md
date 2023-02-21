@@ -57,7 +57,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&theme=algolia&layout=compact&hide_border=true&bg_color=000000&text_color=0079fa" alt="Ritabrata" />
 </div> <br>
 
-  ![Ritabrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritax2003&custom_title=Ritabrata's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+  ![Ritabrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritax2003&custom_title=Ritabrata's%20GitHub%20Activity%20Graph&line=2100fa&point=0079fa&area=true&hide_border=true&theme=gotham)
  
 <!-- [![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
