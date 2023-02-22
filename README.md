@@ -15,8 +15,21 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ritabrata-dey-27388622b" target="_blank"><img align="center" src="https://i.pinimg.com/564x/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.jpg" alt="https://www.linkedin.com/in/ritabrata-dey-27388622b" height="30" width="40" /> </a>
 <a href="https://leetcode.com/Ritax_RTX/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Ritax_RTX" height="30" width="30" /> </a>
+</p>
+<p>
+	<a href="https://www.instagram.com/__.rtx._ritax/">
+		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
+	</a>
+	<a href="https://www.linkedin.com/in/ritabrata-dey-27388622b/">
+		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
+	</a>
+  <a href="https://auth.geeksforgeeks.org/user/ritax_rtx/">
+		<img src="https://img.shields.io/badge/GFG-informational?style=social&logo=geeksforgeeks"/>
+	</a>
+	<a href="https://github.com/Ritax2003/">
+		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
+	</a>
 </p>
 
 ## Languages and Tools:
