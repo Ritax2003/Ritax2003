@@ -66,8 +66,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
  
  <img src="https://streak-stats.demolab.com?    user=Ritax2003&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-<img src="https://github-readme-stats-i66v.vercel.app/api?username=Ritax2003&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&theme=algolia&layout=compact&hide_border=true&bg_color=000000&text_color=0079fa" alt="Ritabrata" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+	<img src="https://github-readme-stats-i66v.vercel.app/api?username=Ritax2003&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  
 </div> <br>
 
   ![Ritabrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritax2003&custom_title=Ritabrata's%20GitHub%20Activity%20Graph&line=2100fa&point=0079fa&area=true&hide_border=true&theme=gotham)
