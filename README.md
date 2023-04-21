@@ -7,11 +7,11 @@
 ![github-dp (2)](https://user-images.githubusercontent.com/82272821/189716208-18c89433-a420-48a5-9847-2fac97f50da6.png)
 
 - 💻 Currently learning **Data Structure & Algorithms**.
-- ⚡ Solving questions on **Leetcode** , **GeeksForGeeks**.
-- 📫 Contact me : [Ritabratadey1296@gmail.com]()
+- ⚡  Solving questions on **Leetcode** , **GeeksForGeeks**.
+- 📫 Contact me : [ritabratadey1296@gmail.com]()
 - 🎮 Playing Video games.
 - 🎵 Listening to Video Game OSTs.
-- 🔧Tinkering electronics.
+- 🔧 Tinkering electronics.
 
 ## Connect with me:
 <p align="left">
@@ -33,12 +33,7 @@
 </p>
 
 ## Languages and Tools:
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Code Studio"></code> 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/900px-Atom_1.0_icon.png?20160921001112" alt="Atom"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="HTML5"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="CSS"></code>
+<img src="https://skillicons.dev/icons?i=c,cpp,vscode,atom,html,css" alt="skills actively learning logos">
 <br>
 
 ## Emulators :
