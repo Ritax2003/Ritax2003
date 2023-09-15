@@ -73,7 +73,7 @@
   
 </div> <br>
 
-  ![Ritabrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritax2003&custom_title=Ritabrata's%20GitHub%20Activity%20Graph&line=2100fa&point=0079fa&area=true&hide_border=true&theme=gotham)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritax2003&area=true&bg_color=0E1720&line=A3BBF5&point=FF8F8F&color=99C0FF&area_color=5B7fD2&title_color=C2D9FF&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!-- [![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
