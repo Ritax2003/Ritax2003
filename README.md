@@ -65,7 +65,6 @@
  <img src="https://streak-stats.demolab.com?    user=Ritax2003&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritax2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
 
-	<p align="center">
   <img alt="Light" src="https://stats.quine.sh/Ritax2003/github?theme=dark" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://stats.quine.sh/Ritax2003/languages-over-time?theme=dark" width="45%">
