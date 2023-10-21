@@ -12,6 +12,7 @@
 - 🎮 Playing Video games.
 - 🎵 Listening to Video Game OSTs.
 - 🔧 Tinkering electronics.
+[![An image of @ritax_rtx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritax_rtx)](https://holopin.io/@ritax_rtx)
 
 ## Connect with me:
 <p align="left">
