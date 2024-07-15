@@ -20,13 +20,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritabrata-dey-27388622b/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Ritax_RTX/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199072550172/)
+[![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/f4bef2e46a9a49aea9fcbc7f2367f612)
 
 ## Languages and Tools:
 <img src="https://skillicons.dev/icons?i=c,cpp,vscode,atom,html,css" alt="skills actively learning logos">
 <br>
 
 ## Emulators :
-<h4 align="left">Nintendo:</h4>
+<h4 align="left">Nintendo: <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge"> <img src="https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge"> <img src="https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white"> <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></h4>
 <code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
 <code><img height="40" src="https://cdn.wccftech.com/wp-content/uploads/2017/10/cemu-release-online-play-1030x579.jpg" alt="Cemu"></code> 
