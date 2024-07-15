@@ -23,24 +23,39 @@
 [![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/f4bef2e46a9a49aea9fcbc7f2367f612)
 
 ## Languages and Tools:
-<img src="https://skillicons.dev/icons?i=c,cpp,vscode,atom,html,css" alt="skills actively learning logos">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <br>
 
 ## Emulators :
-<h4 align="left">Nintendo: <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge"> <img src="https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge"> <img src="https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white"> <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></h4>
+<h4 align="left">Nintendo:
+	<img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge"> 
+	<img src="https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge"> 
+	<img src="https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white"> 
+	<img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+</h4>
 <code><img height="40" src="https://ryujinx.org/assets/images/logo.png" alt="Ryujinx"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></code>
 <code><img height="40" src="https://cdn.wccftech.com/wp-content/uploads/2017/10/cemu-release-online-play-1030x579.jpg" alt="Cemu"></code> 
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Citra_Logo.svg/768px-Citra_Logo.svg.png?20171001090803" alt="Citra"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/225px-Dolphin-logo.svg.png" alt="Dolphin"></code>
 <br>
-<h4 align="left">Sony: <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"> <img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"> <img src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"> <img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white"></h4>
+<h4 align="left">Sony: 
+	<img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white">
+</h4>
 <code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
 <code><img height="40" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
 <br>
-<h4 align="left">Microsoft Xbox: <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></h4>
+<h4 align="left">Microsoft Xbox: 
+	<img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
+</h4>
 <code><img height="40" width="40"src="https://xemu.app/docs/assets/images/logo-green.svg" alt="xemu"></code>
 <code><img height="40" width="40"src="https://xenia.jp/images/logo-256x256.png" alt="xenia"></code>
 <br>
