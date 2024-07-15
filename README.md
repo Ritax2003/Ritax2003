@@ -40,7 +40,7 @@
 <code><img height="40" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
 <code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
 <br>
-<h4 align="left">Microsoft Xbox:</h4>
+<h4 align="left">Microsoft Xbox: <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></h4>
 <code><img height="40" width="40"src="https://xemu.app/docs/assets/images/logo-green.svg" alt="xemu"></code>
 <code><img height="40" width="40"src="https://xenia.jp/images/logo-256x256.png" alt="xenia"></code>
 <br>
