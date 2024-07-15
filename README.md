@@ -14,24 +14,12 @@
 - 🔧 Tinkering electronics.
 [![An image of @ritax_rtx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritax_rtx)](https://holopin.io/@ritax_rtx)
 
-## Connect with me:
-<p align="left">
-	<a href="https://leetcode.com/Ritax_RTX/">
-		<img src="https://img.shields.io/badge/LeetCode-informational?style=social&logo=leetcode"/>
-	</a>
-	<a href="https://www.instagram.com/__.rtx._ritax/">
-		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
-	</a>
-	<a href="https://www.linkedin.com/in/ritabrata-dey-27388622b/">
-		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
-	</a>
-  <a href="https://auth.geeksforgeeks.org/user/ritax_rtx/">
-		<img src="https://img.shields.io/badge/GFG-informational?style=social&logo=geeksforgeeks"/>
-	</a>
-	<a href="https://github.com/Ritax2003/">
-		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
-	</a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561526790022) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__.rtx._ritax/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritabrata-dey-27388622b/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Ritax_RTX/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199072550172/)
 
 ## Languages and Tools:
 <img src="https://skillicons.dev/icons?i=c,cpp,vscode,atom,html,css" alt="skills actively learning logos">
