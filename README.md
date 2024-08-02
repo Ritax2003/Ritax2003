@@ -125,15 +125,6 @@
 	</tr>
 </table>
 
-
-<h4 align="left">Microsoft Xbox: 
-	
-</h4>
-<code></code>
-<code></code>
-<br>
-<br>
-  
 ## Profile Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ritax2003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
