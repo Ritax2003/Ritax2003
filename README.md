@@ -44,8 +44,15 @@
 <br>
 
 ## Emulators :
-<h4 align="left">Nintendo:
-	<table>
+<table>
+	<tr>
+		<th>Nintendo</th>
+		<th>Sony</th>
+		<th>Microsoft Xbox</th>
+	</tr>
+	<tr>
+		<td>
+		<table>
 		<tr>
 			<th>Emulator</th>
 			<th>Emulated Console</th>
@@ -69,28 +76,61 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/3/35/Yuzu_Emulator.svg" alt="Yuzu"></td>
 			<td><img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></td>
 		</tr>
+	</table>	
+		</td>
+		<td>
+			<table>
+		<tr>
+			<th>Emulator</th>
+			<th>Emulated Console</th>
+		</tr>
+		<tr>
+			<td><img height="40" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></td>
+			<td><img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"></td>
+		</tr>
+		<tr>
+			<td><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></td>
+			<td><img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"></td>
+		</tr>
+		<tr>	
+			<td><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></td>
+			<td><img src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"> </td>
+		</tr>
+		<tr>
+			<td><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></td>
+			<td>Playstation Portable</td>
+		</tr>
+		<tr>
+			<td><img height="40" width="40" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/vita3k-android-logo-feature.jpg"></td>
+  			<td><img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white"></td>			
+		</tr>
 	</table>
+		</td>
+		<td>
+			<table>
+		<tr>
+			<th>Emulator</th>
+			<th>Emulated Console</th>
+		</tr>
+		<tr>
+			<td><img height="40" width="40"src="https://xemu.app/docs/assets/images/logo-green.svg" alt="xemu"></td>
+			<td><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></td>
+		</tr>
+		<tr>
+			<td><img height="40" width="40"src="https://xenia.jp/images/logo-256x256.png" alt="xenia"></td>
+			<td><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox 360&logoColor=white"></td>
+		</tr>
+	</table>
+		</td>
+	</tr>
+</table>
+
+
+<h4 align="left">Microsoft Xbox: 
 	
 </h4>
-
-<br>
-<h4 align="left">Sony: 
-	<img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white">
-</h4>
-<code><img height="40" width="40"src="https://archive.org/download/rpcs3-v0.0.7-9283-FULL-2019/pc-rpcs3.png" alt="Rpcs3"></code>
-<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/PCSX2_logo4.png/180px-PCSX2_logo4.png" alt="Pcsx2"></code>
-<code><img height="40" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/EPSXe-logo.svg/677px-EPSXe-logo.svg.png?20110515061156" alt="ePSXe"></code>
-<code><img height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/768px-PPSSPP_logo.svg.png?20210416042357" alt="PPSSPP"></code>
-<code><img height="40" width="40" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/vita3k-android-logo-feature.jpg"></code>
-<br>
-<h4 align="left">Microsoft Xbox: 
-	<img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
-</h4>
-<code><img height="40" width="40"src="https://xemu.app/docs/assets/images/logo-green.svg" alt="xemu"></code>
-<code><img height="40" width="40"src="https://xenia.jp/images/logo-256x256.png" alt="xenia"></code>
+<code></code>
+<code></code>
 <br>
 <br>
   
