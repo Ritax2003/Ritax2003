@@ -45,7 +45,6 @@
 
 ## Emulators :
 <h4 align="left">Nintendo:
-	
 	<table>
 		<tr>
 			<th>Emulator</th>
