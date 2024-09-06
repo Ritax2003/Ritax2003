@@ -45,6 +45,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
 
+## Badges :
+<div align="center">
+ <a href="https://leetcode.com/Ritax_RTX/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Ritax_RTX" height="200" width="200" /></a>
+ <a href="https://leetcode.com/Ritax_RTX/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Ritax_RTX" height="200" width="200" /></a>
+</div>
+
 ## Emulators :
 <table>
 	<tr>
