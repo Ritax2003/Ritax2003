@@ -8,7 +8,6 @@
 
 - 💻 Currently learning **Data Structure & Algorithms**.
 - ⚡  Solving questions on **Leetcode** , **GeeksForGeeks**.
-- 📫 Contact me : [ritabratadey1296@gmail.com]()
 - 🎮 Playing Video games.
 - 🎵 Listening to Video Game OSTs.
 - 🔧 Tinkering electronics.
